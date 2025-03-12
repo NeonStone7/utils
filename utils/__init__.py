@@ -1,1 +1,1 @@
-from .creating_values import return_value
+from .creating_values import return_value, update_return_value
